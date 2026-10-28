@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" fill="none">
+  <defs>
+    <linearGradient id="base" x1="152" y1="66" x2="1450" y2="850" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#17365D"/>
+      <stop offset=".5" stop-color="#282442"/>
+      <stop offset="1" stop-color="#780C2D"/>
+    </linearGradient>
+    <radialGradient id="maroon-glow" cx="0" cy="0" r="1" gradientTransform="matrix(-694 630 -497 -547 1317 180)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A21E43" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#780C2D" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blue-glow" cx="0" cy="0" r="1" gradientTransform="matrix(629 501 -411 516 270 836)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#244E7B" stop-opacity=".72"/>
+      <stop offset="1" stop-color="#102747" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="38" height="38" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.5" fill="#FFF" fill-opacity=".12"/>
+    </pattern>
+  </defs>
+  <path fill="url(#base)" d="M0 0h1600v900H0z"/>
+  <path fill="url(#maroon-glow)" d="M0 0h1600v900H0z"/>
+  <path fill="url(#blue-glow)" d="M0 0h1600v900H0z"/>
+  <path fill="url(#dots)" d="M0 0h1600v900H0z" opacity=".42"/>
+  <g stroke="#FFF" stroke-opacity=".09">
+    <path d="M1030-145c388 102 590 483 488 871s-483 590-871 488"/>
+    <path d="M1065-210c424 112 644 528 532 952s-528 644-952 532"/>
+    <path d="M1100-276c461 122 700 573 578 1034s-573 700-1034 578"/>
+    <path d="M-163 637c182-273 552-347 825-165s347 552 165 825"/>
+    <path d="M-225 596C-20 289 395 206 702 411s390 620 185 927"/>
+  </g>
+  <path d="m1380 103 145 84-84 145-145-84 84-145Z" stroke="#FFF" stroke-opacity=".12"/>
+  <path d="m290 600 85 49-49 85-85-49 49-85Z" stroke="#FFF" stroke-opacity=".12"/>
+</svg>
