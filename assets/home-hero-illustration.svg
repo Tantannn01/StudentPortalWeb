@@ -55,11 +55,11 @@
     <text x="550" y="169" fill="#17365D" font-family="Arial,sans-serif" font-size="9" font-weight="700" letter-spacing="1.2">LEARN</text>
     <text x="550" y="181" fill="#17365D" font-family="Arial,sans-serif" font-size="9" font-weight="700" letter-spacing="1.2">GROW</text>
   </g>
-  <g transform="rotate(-5 237 414)">
-    <rect x="188" y="392" width="96" height="44" rx="3" fill="#FFFDF8"/>
-    <path d="M203 414h17" stroke="#17365D" stroke-width="2"/>
-    <text x="226" y="411" fill="#79133F" font-family="Arial,sans-serif" font-size="8" font-weight="700" letter-spacing="1">YOUR NEXT</text>
-    <text x="226" y="423" fill="#79133F" font-family="Arial,sans-serif" font-size="8" font-weight="700" letter-spacing="1">CHAPTER</text>
+  <g transform="rotate(-5 213 414)">
+    <rect x="164" y="392" width="96" height="44" rx="3" fill="#FFFDF8"/>
+    <path d="M179 414h17" stroke="#17365D" stroke-width="2"/>
+    <text x="202" y="411" fill="#79133F" font-family="Arial,sans-serif" font-size="8" font-weight="700" letter-spacing="1">YOUR NEXT</text>
+    <text x="202" y="423" fill="#79133F" font-family="Arial,sans-serif" font-size="8" font-weight="700" letter-spacing="1">CHAPTER</text>
   </g>
   <path d="m104 149 29-8 8 29-29 8-8-29Z" fill="#70215E" fill-opacity=".8"/>
   <path d="m627 88 20 6-6 20-20-6 6-20Z" fill="#F4BE79"/>
